@@ -1,5 +1,5 @@
 # video-resource
-[看看APP](https://xuehuayu/cn/kankan)内置影视资源站
+[看看APP](https://xuehuayu.cn/kankan)内置影视资源站
 
 ```json
     {
