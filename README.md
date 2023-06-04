@@ -1,5 +1,5 @@
 # video-resource
-[看看APP](https://laonongmi.online)内置影视资源站,可能会有变化,以APP为准
+[看看APP](https://laonongmin.online)内置影视资源站,可能会有变化,以APP为准
 
 ```json
 [
