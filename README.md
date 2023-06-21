@@ -1,5 +1,5 @@
 # video-resource
-
+[https://xuehuayu.cn](https://xuehuayu.cn)
 [KK Player【看看】](https: //laonongmin.online) 内置影视资源站,可能会有变化,以APP为准
 
 ```json
